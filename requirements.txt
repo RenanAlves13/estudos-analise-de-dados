@@ -1,1 +1,5 @@
 pandas==2.3.3
+skew==0.19.0
+scipy==1.16.3
+seaborn==0.13.2
+stemgraphic==0.6.1
